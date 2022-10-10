@@ -1,2 +1,2 @@
-# Primeiro Projeto
-## Esse repositório serve para acompanhar um dos meus primeiros projetos em HTML
+# Desafio aula 10
+## Esse é um projeto baseado em um desafio do Curso em Video do professor Gustavo Guanabara.
